@@ -1,7 +1,7 @@
 # Bank Account Manager
 
 ## Banking Workflow Test
-[![Banking Workflow Test](https://github.com/legoeldonclone/Week01_BankManager/actions/workflows/bankingtest.yml/badge.svg)](https://github.com/legoeldonclone/Week01_BankManager/actions/workflows/bankingtest.yml)
+[![Banking Workflow Test](https://github.com/esalman-dev/bank-account-manager-cpp/actions/workflows/bankingtest.yml/badge.svg)](https://github.com/esalman-dev/bank-account-manager-cpp/actions/workflows/bankingtest.yml)
 
 ## Overview
 Project for my ITCS-2550 Class, this program is a Bank Manager capable of the following:

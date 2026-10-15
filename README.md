@@ -1,4 +1,4 @@
-# Week_01
+# Bank Account Manager
 
 ## Banking Workflow Test
 [![Banking Workflow Test](https://github.com/legoeldonclone/Week01_BankManager/actions/workflows/bankingtest.yml/badge.svg)](https://github.com/legoeldonclone/Week01_BankManager/actions/workflows/bankingtest.yml)

@@ -24,4 +24,4 @@ Project for my ITCS-2550 Class, this program is a Bank Manager capable of the fo
 	- Saves all account information into a .txt file.
 	- Formats it into a readable table like the View Accounts feature.
 
-More additional features may be added in the future, currently on Week 3.
+More additional features may be added in the future.
